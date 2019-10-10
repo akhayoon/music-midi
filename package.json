@@ -18,7 +18,10 @@
   },
   "homepage": "https://github.com/akhayoon/music-midi#readme",
   "dependencies": {
+    "@tonaljs/scale": "^3.2.3",
     "audiokeys": "^0.1.1",
-    "parcel-bundler": "^1.12.4"
+    "lodash": "^4.17.15",
+    "parcel-bundler": "^1.12.4",
+    "tone": "^13.8.25"
   }
 }
